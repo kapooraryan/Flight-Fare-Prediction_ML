@@ -18,10 +18,8 @@ In this scenario, we have two sets of data: the training set and the test set. T
 3. Feature Engineering
 4. Model Building 
 
-![Flight-Fare-Prediction_ML_Output](https://user-images.githubusercontent.com/69362333/236672139-c2aaa939-dbac-4abc-a535-e1c549a31cd0.png)
-
 # Future Scope
-**Model Deployment** - Designing a User Interface using the Python Flask Framework which will take the user's input preferences and calculate the fare. The model can then be deployed on Heroku through the GitHub link.
+**Model Deployment** - Designing a User Interface using the Python Flask Framework or Streamlit which will take the user's input preferences and calculate the fare. The model can then be deployed on Heroku through the GitHub link.
 
 # References
 [Link1](https://medium.com/geekculture/flight-fare-prediction-93da3958eb95)
